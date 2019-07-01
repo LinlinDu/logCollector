@@ -8,6 +8,7 @@
 
 ## 系统架构
 ![avatar](https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect2.jpg?raw=true)
+<img src="https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect2.jpg"  alt="log" />
 ## 安装
 ```
 go get github.com/LinlinDu/logCollector
