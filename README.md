@@ -7,8 +7,7 @@
 日志准实时搜集，延时控制在分钟级别。
 
 ## 系统架构
-![avatar](https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect2.jpg?raw=true)
-<img src="https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect2.jpg"  alt="log" />
+![avatar](https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect2.jpg)
 ## 安装
 ```
 go get github.com/LinlinDu/logCollector
@@ -32,7 +31,7 @@ go get github.com/LinlinDu/logCollector
 2019/07/01 13:17:33.021 [D]  topic: [log] pid: [7], offset: [50]
 ```
 访问http://127.0.0.1:5601 ，打开kibana，可看到搜集到的日志
-![avatar](https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect.jpg?raw=true)
+![avatar](https://github.com/LinlinDu/myMarkdownPhotos/blob/master/photos/logcollect.jpg)
 ## 使用
 + kafka
 + zookeeper
