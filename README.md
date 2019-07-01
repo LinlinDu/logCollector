@@ -17,7 +17,7 @@ go get github.com/LinlinDu/logCollector
 在conf文件夹中填写相应配置，在集群中需要收集日志的机器中使用logAgent，在管理日志的机器中使用logCollector。
 
 ## 运行案例
-app启动后，首先会等待日志文件在你设定的位置出现，发现文件后然后开始逐条搜集日志
+app启动后，首先会等待日志文件在你设定的位置出现，发现文件后然后开始逐条搜集日志。</br>
 在dubug模式下输出如下
 ```
 2019/07/01 13:09:53 Waiting for logs/20190701.log to appear...
